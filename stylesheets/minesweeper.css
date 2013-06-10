@@ -1,0 +1,46 @@
+td {
+	line-height: 0px;
+	padding: 0px;
+	text-align: center;
+	/*height: 17px;*/
+	width: 17px;
+	font-size: 95%;
+	background-color: Gainsboro;
+}
+td#timer, td#message, td#numMines {
+	font-size: 90%;
+	padding-top: 15px;
+	padding-bottom: 0px;
+}
+table {
+	border-collapse: collapse;
+}
+button {
+	height: 17px;
+	width: 17px;
+	border-radius: 0px;
+	padding:0px;
+	margin:0px;
+	line-height: 0px;
+	font-size: 80%;
+	text-align: left;
+}
+.panelB {
+	width: 110px;
+	height: 25px;
+	text-align: center;
+	font-size: 90%;
+}
+#panel {
+	float: left;
+	margin-right: 25px;
+	margin-bottom: 50px;
+	font-size: 80%;
+	position: relative;
+}
+#timer {
+	width: 29px;
+	height: 14px;
+	border:none;
+	background-color: Gainsboro;
+}

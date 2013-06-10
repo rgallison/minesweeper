@@ -169,9 +169,6 @@ pre, code {
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
-
-
-
 }
 
 pre {
@@ -272,7 +269,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 750px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -364,10 +361,11 @@ Full-Width Styles
   background: #f2f2f2;
   border-top: 1px solid #111;
   border-bottom: 1px solid #111;
+  min-height: 500px;
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 60px;
 }
 
 #footer_wrap {
